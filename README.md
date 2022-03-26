@@ -25,6 +25,15 @@ Desafio CRUD - Empresa Info Sistemas - Candidato ATTILA SAMUELL NUNES TABORY
 
 <br>
 <br>
+Breve imagem da estrutura da tabela carros no banco de dados Mysql:
+
+![print_estrutura_bd_mysql](https://user-images.githubusercontent.com/76443540/160224698-9db6ce00-fb76-4341-af5c-125a0eb3ef2d.png)
+
+<br>
+<br>
+
+
+
 Breve imagem do teste feito no POSTMAN:
 
 
