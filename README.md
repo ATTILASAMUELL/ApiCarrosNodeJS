@@ -13,8 +13,12 @@ Desafio CRUD - Empresa Info Sistemas - Candidato ATTILA SAMUELL NUNES TABORY
 - Testes da Api feito no POSTMAN.
 <br>
 - Projeto foi estruturado com padrão de projeto MVC.
-- <br>
-- Referente a parte do front end e o  teste unitários utilizando Mocha (Node), posso sim fazer, caso tenha mais tempo para realização do desafio, como eu peguei Covid, me prejudicou.
+<br>
+
+- Testes unitários utilizando Mocha (Node) e Chai (Node) - FEITO COM SUCESSO
+
+<br>
+- Referente a parte do front end, posso sim fazer, caso tenha mais tempo para realização do desafio, como eu peguei Covid, me prejudicou.
 
 <div style="display:inline_block"><br/>
   <img align"center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -32,6 +36,12 @@ Breve imagem da estrutura da tabela carros no banco de dados Mysql:
 <br>
 <br>
 
+Breve imagem do teste com Mocha e Chai, testando se o retorno da requisição a rota "api/carros" é status 200 ( status de ok e deu certo a requisição):
+
+![teste_mocha_e_chai_get_todos_carros](https://user-images.githubusercontent.com/76443540/160243832-68d3d3cc-06e6-4c38-875c-628e738811f9.png)
+
+<br>
+<br>
 
 
 Breve imagem do teste feito no POSTMAN:
