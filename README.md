@@ -6,7 +6,7 @@
 
 
 <h1>  Desafio Crud em NODE JS </h1>
-Desafio CRUD - Empresa Info Sistemas - Candidato ATTILA SAMUELL NUNES TABORY 
+ CRUD - NodeJS com Teste Unitário 
 <div style="display:inline_block"><br/>
   <img align"center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align"center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
