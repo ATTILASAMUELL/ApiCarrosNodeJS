@@ -26,9 +26,6 @@
 - Testes unitários utilizando Mocha (Node) e Chai (Node) - FEITO COM SUCESSO
 
 <br>
-- Referente a parte do front end, posso sim fazer, caso tenha mais tempo para realização do desafio, como eu peguei Covid, me prejudicou.
-
-
 
 <br>
 <br>
