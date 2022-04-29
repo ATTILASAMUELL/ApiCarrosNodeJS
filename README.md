@@ -6,7 +6,7 @@
 
 
 <h1>  Desafio Crud em NODE JS </h1>
- CRUD - NodeJS com Teste Unitário 
+ CRUD - NodeJS com Teste de Integração 
 <div style="display:inline_block"><br/>
   <img align"center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align"center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -23,7 +23,7 @@
 - Projeto foi estruturado com padrão de projeto MVC.
 <br>
 
-- Testes unitários utilizando Mocha (Node) e Chai (Node) - FEITO COM SUCESSO
+- Testes de Integração utilizando Mocha (Node) e Chai (Node) - FEITO COM SUCESSO
 
 <br>
 
